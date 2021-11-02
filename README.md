@@ -6,7 +6,7 @@ In this project, I seek to the understanding of audience engagement associated w
 
 ## Dataset Description
 
-This study sample was downloaded from major U.S. news media’s Facebook public page using an app called CrowdTangle. Following the previous study, we chose 4 categories of new media: liberal (11), neutral (6), conservative (5), and science channels (24), 46 outlets in total. The dataset can be downloaded here. 
+This study sample was downloaded from major U.S. news media’s Facebook public page using an app called CrowdTangle. Following the previous study, we chose 4 categories of new media: liberal (11), neutral (6), conservative (5), and science channels (24), 46 outlets in total. The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1arjfRysDY4nwcsgwTbKBCkYeLl7tq3SB?usp=sharing).
 
 We extracted these downloaded media postings from 2020/1/1 to 2021/6/30, considering COVID-19 topics were the most predominant during this time. Next, following previous studies, we used keywords to identify COVID-related posts for further analysis. These keywords are: Covid19, Covid, Corona, Coronavirus, 2019ncov, Ncov, Pandemic, Lockdown, Quarantine, SARS-CoV-2, N95, Social distancing. After topic selection, we got our working sample including 84,385 pieces of news. After eliminating missing value, we got final analytical sample of 61,463.  
 
