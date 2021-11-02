@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-In this project, I seek to the understanding of audience engagement associated with moral content and sentiment in COVID-19 related topics. It contributes to theories by investigating how moral dimensions are associated with the diffusion of social media contents on science topics, a previously less understand and yet increasingly important topic.  
+In this project, we seek to the understanding of audience engagement associated with moral content and sentiment in COVID-19 related topics. It contributes to theories by investigating how moral dimensions are associated with the diffusion of social media contents on science topics, a previously less understand and yet increasingly important topic.  
 
 ## Dataset Description
 
@@ -18,7 +18,7 @@ To run the notebook successfully, one has to first install libraries that are be
 
 ## Key Findings
 
-Our study investigated how moral foundational scores relate to audience engagement in major media outlets’ Facebook postings. Further we examined how the pattern varies by media type, namely, liberal, conservatives, neutrals, and science channels. We do not find evidence supporting liberals are more responsive to postings with higher care and fairness dimensional scores, nor significant differences in the other 2 moral dimensions. But we find evidence that conservatives are more responsive to postings with higher authority dimensional scores. 
+This study investigated how moral foundational scores relate to audience engagement in major media outlets’ Facebook postings. Further we examined how the pattern varies by media type, namely, liberal, conservatives, neutrals, and science channels. We do not find evidence supporting liberals are more responsive to postings with higher care and fairness dimensional scores, nor significant differences in the other 2 moral dimensions. But we find evidence that conservatives are more responsive to postings with higher authority dimensional scores. 
 
 In addition, neutral medias postings have more audience engagement in fairness, loyalty, authority, and sanctity contents. Science channels, by contrast, seems only responsive at authority dimensional contents. By exploring how moral values drive audience engagement across media type, we contribute to understanding the nature of audience engagement in social media contents.  
 
