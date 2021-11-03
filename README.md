@@ -1,4 +1,4 @@
-# Sentiment Analysis On COVID 19 Postings 
+# Sentiment Analysis On COVID-19 Postings 
 
 ## Project Overview 
 
