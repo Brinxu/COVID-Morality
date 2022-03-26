@@ -1,4 +1,4 @@
-# Moral Covid
+# Sentiment Analysis on COVID-19 Postings
 
 ## Project Overview 
 
