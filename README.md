@@ -1,4 +1,4 @@
-# COVIED MORALITY
+# COVID MORALITY
 
 ### Introduction
 
