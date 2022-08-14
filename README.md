@@ -6,7 +6,7 @@ This repository includes code and trained models corresponding to our research p
 
 When using this repository, please considering give it a star (top right corner), and cite the following article: 
 
-Xu, B., Peng, Y. (2022). Pandemic Politics, Moralized: How Morality Predicts Audience Engagement with COVID-19 Messages from Partisan Media on Facebook. In the process of Journal submission. 
+Pandemic Politics, Moralized: How Morality Predicts Audience Engagement with COVID-19 Messages from Partisan Media on Facebook. In the process of Journal submission. 
 
 ### Data
 We extract textual data from U.S. major media’s Facebook pages, then transform and load them into a python notebook for the next analysis step. Both original data and processed data are here: 
