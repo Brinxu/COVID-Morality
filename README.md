@@ -7,7 +7,7 @@ This repository includes code and trained models corresponding to our research p
 When using this repository, please considering give it a star (top right corner). 
 
 ### Data
-We extract textual data from U.S. major media’s Facebook pages, then transform and load them into a python notebook for the next analysis step. Both original data and processed data are here: 
+We extract textual data from U.S. major media’s Facebook pages, then transform and load them into a python notebook for the next analysis step. The original data is here: 
 https://drive.google.com/drive/folders/1arjfRysDY4nwcsgwTbKBCkYeLl7tq3SB?usp=sharing
 
 ### Install
