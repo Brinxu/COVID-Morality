@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository includes code and trained models corresponding to our research on covid morality, which explores the relationship between morality and audience engagement to Covid-19 related issues. We generated a liberty dictionary and then generate post level liberty score. This allows us to quantify liberty morality, which is missing in the extended moral foundation dictionary (eMFDs). 
+This repository includes code and trained models corresponding to our research on covid morality (please run the code in sequence). Our research explores the relationship between morality and audience engagement on Covid-19 related issues. We generated a liberty dictionary and then generate post level liberty score. This allows us to quantify liberty morality, which is missing in the extended moral foundation dictionary (eMFDs). 
 
 <a href="https://docs.google.com/presentation/d/1P02BEcFpWBeF6pBoh8xLRv3I8Cl3dhCI/edit?usp=sharing&ouid=111383536844814990723&rtpof=true&sd=true">An ealier version of this research</a> has been prestend at the ICA conference at Pairs, France (Virtual). When using this repository, please considering give it a star (top right corner) and citing below: 
 
